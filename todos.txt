@@ -1,8 +1,11 @@
-cook
 update the OS
 wash
 study
 fix bicycle
 cook the food
-cook snth
+clean
 test equipment
+test
+eat
+fix door
+last todo
